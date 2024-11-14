@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Lucy saw a row of colourful flags on the playhouse fence. Count the flags by 5s and find how many flags are there in the playhouse?<br><img width='70%' src='./images/20.jpg'>",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "There are dices in each game set, count the dice by 5s and find the total number of dice.<br><img width='70%' src='./images/21.jpg'>",
+        "options": [
+            "10",
+            "20",
+            "15",
+            "25"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "For a card game, Lucy’s friends need 5 cards in each hand. Count the cards by 5s and find the total number of cards.<br><img width='70%' src='./images/22.jpg'>",
+        "options": [
+            "25",
+            "20",
+            "15",
+            "30"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "For a ring toss game, count the rings by 5s and find the total number of rings.<br><img width='70%' src='./images/23.jpg'>",
+        "options": [
+            "15",
+            "20",
+            "10",
+            "25"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "They need markers to play a board game. Count the markers by 5s and find the total number of markers.<br><img width='70%' src='./images/24.jpg'>",
+        "options": [
+            "25",
+            "35",
+            "30",
+            "20"
+        ],
+        "correct": 2
+    }
+]

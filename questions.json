@@ -1,0 +1,38 @@
+[
+  {
+    "questionNo": 1,
+    "question": "The playhouse has a pathway lined with flower pots. Skip count by 5s and fill in the blank boxes.",
+    "options":["40","","50","","60","","70"],
+    "answers": ["40","45","50","55","60","65","70"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "The playhouse has a number line painted on the ground. Skip count by 5s and fill in the blank boxes.",
+    "options":["35","","45","50","","","65"],
+    "answers": ["35","40","45","50","55","60","65"],
+    "secondImg":"./images/1.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": " Lucy and her friends hop along the number line marked on the playhouse. Skip count by 5s to fill in the blank boxes.",
+    "options":["50","55","","65","70","",""],
+    "answers": ["50","55","60","65","70","75","80"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "The playhouse has a hopscotch game with numbers. Fill in the blank boxes by skip counting by 5s.",
+    "options":["32","","42","","52","","62"],
+    "answers": ["32","37","42","47","52","57","62"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "Along the playhouse exit path, a number line is marked up to 95. Help Lucy skip count by 5s to fill in the missing numbers.",
+    "options":["31","","41","","51","","61"],
+    "answers": ["31","36","41","46","51","56","61"],
+    "secondImg":"./images/1.jpg"
+  }
+]
